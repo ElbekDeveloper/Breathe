@@ -33,7 +33,7 @@
                                     <!-- Animating the BorderThickness property uses 3 KeyFrames. -->
                                     <ThicknessAnimationUsingKeyFrames
                 Storyboard.TargetProperty="BorderThickness"
-                Duration="0:0:5" FillBehavior="HoldEnd" RepeatBehavior="Forever">
+                Duration="0:0:7" FillBehavior="HoldEnd" RepeatBehavior="Forever">
                                     <ThicknessAnimationUsingKeyFrames.KeyFrames>
                                         <!-- Using a LinearThicknessKeyFrame, thickness increases gradually
                   over the first half second of the animation. -->
